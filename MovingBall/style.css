@@ -1,0 +1,11 @@
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+}
+.canvas{
+    height: 800px;
+    width: 800px;
+    background-color: bisque;
+}
